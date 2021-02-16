@@ -1,5 +1,5 @@
 ### Greetings, Earthlings!
 
-Hi, my name is Slava, I write code from time to time.
+Hi, my name is Slava, I work at Nextdoor as a member of the Systems Infrastructure team. I'm currently looking for a top notch [SRE](https://about.nextdoor.com/careers-list/?gh_jid=2588321) or [DevOps](https://about.nextdoor.com/careers-list/?gh_jid=2588324) to join my team. 
 
 :vulcan_salute:
