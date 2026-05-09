@@ -8,7 +8,10 @@ Hi, my name is Slava, I'm a software engineer with a knack for diving into backe
 
 At [@Nextdoor](https://github.com/Nextdoor) I work on the Core Services team on distributed systems and scalability problems.
 
-I'm passionate about 🐝 bee keeping, 🏎️ Formula 1, and ☕ third wave coffee.
+I'm passionate about 🚲 cycling, 🏎️ Formula 1, and ☕ third wave coffee.
+
+### Talks
+* [Scaling Relational Databases at Nextdoor](https://www.scylladb.com/tech-talk/scaling-relational-databases-at-nextdoor/)
 
 ### Blog posts
 * [Scaling Nextdoor’s Datastores: Part 1](https://engblog.nextdoor.com/scaling-nextdoors-datastores-part-1-234d0cf67665)
