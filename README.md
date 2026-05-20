@@ -11,7 +11,7 @@ At [@Nextdoor](https://github.com/Nextdoor) I work on the Core Services team on 
 I'm passionate about 🚲 cycling, 🏎️ Formula 1, and ☕ third wave coffee.
 
 ### Talks
-* [Scaling Relational Databases at Nextdoor](https://www.youtube.com/watch?v=_jLsGXnJS64)
+* [Monster SCALE Summit 2026: Scaling Relational Databases at Nextdoor](https://www.youtube.com/watch?v=_jLsGXnJS64)
 
 ### Blog posts
 * [Scaling Nextdoor’s Datastores: Part 1](https://engblog.nextdoor.com/scaling-nextdoors-datastores-part-1-234d0cf67665)
