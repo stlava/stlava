@@ -12,6 +12,7 @@ I'm passionate about 🚲 cycling, 🏎️ Formula 1, and ☕ third wave coffee.
 
 ### Talks
 * [Monster SCALE Summit 2026: Scaling Relational Databases at Nextdoor](https://www.youtube.com/watch?v=_jLsGXnJS64)
+* [Unlocked Conf Seattle: Not All RESP Clients Are Created Equal](https://youtu.be/Y-AfU0VlOH4?is=jw9ZbrB7VkWSpP1N)
 
 ### Blog posts
 * [Scaling Nextdoor’s Datastores: Part 1](https://engblog.nextdoor.com/scaling-nextdoors-datastores-part-1-234d0cf67665)
